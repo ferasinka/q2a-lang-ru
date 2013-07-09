@@ -188,6 +188,7 @@ return array(
 	'refill_events_note' => ' - для списков обновлений пользователей',
 	'refill_events_refilled' => 'Пересчитаны ^1 из ^2 вопросов...',
 	'refill_events' => 'Пересчет списков событий',
+	'registration_fields' => "добавить поля к странице регистрации",
 	'reindex_content' => 'Пересчет содержимого',
 	'reindex_content_note' => ' - для поиска и связанных вопросов',
 	'reindex_content_stop' => 'Остановить пересчет',

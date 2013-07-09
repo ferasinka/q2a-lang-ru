@@ -1,6 +1,5 @@
 <?php
 return array(
-	'allow_anon_name' => "Запрашивать имя для анонимных сообщений:",
 	'allow_change_usernames' => 'Разрешить пользователям с сообщениями изменять свое имя:',
 	'allow_close_questions' => 'Разрешить пользователям закрывать свои вопросы:',
 	'allow_login_email_only' => 'Вход только по email (не по логину):', 
