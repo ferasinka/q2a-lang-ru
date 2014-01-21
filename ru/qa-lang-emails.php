@@ -58,7 +58,7 @@ return array(
 	'wall_post_subject' => "^site_title - Запись на вашей стене",
 	'wall_post_body' => "^f_handle оставил запись на вашей стене на сайте ^site_title:\n\n^open^post^close\n\nДля ответа нажмите здесь:\n\n^url\n\nСпасибо,\n\n^site_title",
 
-	'welcome_body' => "Благодарим за регистрацию на сайте ^site_title.\n\n^custom^confirmВаши данные:\n\nЭлектронная почта: ^email\nПароль: ^password\n\nЗапомните эту информацию.\n\nСпасибо, \n\n^site_title\n^url",
+	'welcome_body' => "Благодарим за регистрацию на сайте ^site_title.\n\n^custom^confirmВаши данные:\n\nИмя пользователя: ^handle\nЭлектронная почта: ^email\nПароль: ^password\n\nЗапомните эту информацию.\n\nСпасибо, \n\n^site_title\n^url",
 	'welcome_confirm' => "Пожалуйста, нажмите ниже, чтобы подтвердить свой адрес электронной почты.\n\n^url\n\n",
 	'welcome_subject' => 'Добро пожаловать на сайт ^site_title!',
 );

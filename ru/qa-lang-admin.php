@@ -202,6 +202,7 @@ return array(
 	'resume_mailing_button' => 'Продолжить рассылку',
 	'save_options_button' => 'Сохранить опции',
 	'save_recalc_button' => 'Сохранить и пересчитать',
+	'save_view_button' => "Сохранить и посмотреть",
 	'send_test_button' => 'Отправить Тестовое сообщение себе',
 	'show_defaults_button' => 'Показать значения по умолчанию',
 	'show_on_register_form' => 'Показать поле в форме регистрации',
