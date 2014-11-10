@@ -9,6 +9,7 @@ return array(
 	'answers_by_x' => "Ответы от ^",
 	'bonus_points' => 'Бонусные очки:',
 	'comments' => 'Комментарии:',
+	'delete_pm_popup' => "Удалить личное сообщение",
 	'delete_wall_post_popup' => "Удалить сообщение",
 	'extra_privileges' => 'Дополнительные привилегии:',
 	'gave_out' => 'Его голоса:',
