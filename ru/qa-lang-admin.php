@@ -201,6 +201,7 @@ return array(
 	'requires_php_version' => 'Отключено - требуется PHP ^ или выше',
 	'requires_q2a_version' => 'Отключено - требуется Question2Answer ^ и выше',
 	'reset_options_button' => 'Восстановить значения по умолчанию',
+	'reset_options_confirm' => "Вы действительно хотите сбросить все настройни на этой странице в значения по умолчанию?",
 	'resume_mailing_button' => 'Продолжить рассылку',
 	'save_options_button' => 'Сохранить опции',
 	'save_recalc_button' => 'Сохранить и пересчитать',
