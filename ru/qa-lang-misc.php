@@ -55,6 +55,7 @@ return array(
     'nav_user_pms' => "Личные сообщения",
     'nav_user_qs' => "Все вопросы",
     'nav_user_wall' => "Стена",
+    'next_step' => "Следующий шаг",
     'no_activity_from_x' => 'Не активен: ^',
     'no_favorite_categories' => 'Нет избранных категорий',
     'no_favorite_qs' => 'Нет избранных вопросов',
