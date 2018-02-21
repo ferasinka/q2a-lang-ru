@@ -12,7 +12,7 @@ return array(
     'c_commented_body' => "Новый комментарий от ^c_handle был добавлен после вашего комментария на сайте ^site_title:\n\n^open^c_content^close\n\nПродолжение обсуждения:\n\n^open^c_context^close\n\nВы можете добавить другой комментарий:\n\n^url\n\nСпасибо, \n\n^site_title",
     'c_commented_subject' => 'На сайте ^site_title был добавлен комментарий',
 
-    'confirm_body' => "Перейдите по ссылке ниже, чтобы подтвердить свой адрес электронной почты на сайте ^site_title.\n\n^url\n\nСпасибо, \n^site_title",
+    'confirm_body' => "Перейдите по ссылке ниже, чтобы подтвердить свой адрес электронной почты на сайте ^site_title.\n\n^url\n\nКод подтверждения: ^code\n\nСпасибо, \n^site_title",
     'confirm_subject' => '^site_title - Подтверждение электронной почты',
 
     'feedback_body' => "Комментарий:\n^message\n\nИмя:\n^name\n\nЭлектронная почта:\n^email\n\nСо страницы:\n^previous\n\nПользователь:\n^url\n\nIP:\n^ip\n\nБраузер:\n^browser",
