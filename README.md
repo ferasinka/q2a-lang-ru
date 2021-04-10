@@ -14,4 +14,3 @@
 ---
 * [PayPal](https://paypal.me/ferasinka)
 * [Yandex.Money](https://money.yandex.ru/to/410012378124531)
-* [BTC](https://blockchain.info/payment_request?address=17BoxVU8rBNNT1CncixeuF3o8MVzZKsKAx)
