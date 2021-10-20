@@ -13,4 +13,4 @@
 Ваши благодарности
 ---
 * [PayPal](https://paypal.me/ferasinka)
-* [Yandex.Money](https://money.yandex.ru/to/410012378124531)
+* [Yoomoney](https://yoomoney.ru/to/410012378124531)
